@@ -1,7 +1,6 @@
 # Memo Flip Game
 
 A fun and interactive memory matching card game built with **React.js**. Players flip two cards at a time in an attempt to find all the matching pairs. It's a simple, responsive, and stylish game ideal for both kids and adults!
-
 ---
 
 ##  Features
